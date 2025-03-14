@@ -16,12 +16,12 @@ This project is a web-based MQTT Light Control system that allows users to contr
 ## Technologies Used
 - **HTML5**
 - **CSS3**
-- **JavaScript** (for MQTT logic integration - to be added)
+- **Python** (for MQTT logic integration - to be added)
 - **Google Fonts** (Roboto)
 
 ## How to Use
 1. **Setup MQTT Broker**: Ensure you have a running MQTT broker like Mosquitto.
-2. **Configure MQTT Details**: Integrate the necessary JavaScript logic to handle MQTT connections and messaging.
+2. **Configure MQTT Details**: Integrate the necessary Python Script logic to handle MQTT connections and messaging.
 3. **Deploy**: Open the HTML file in a web browser to start controlling the light.
 
 ## UI Components
